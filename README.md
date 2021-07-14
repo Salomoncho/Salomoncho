@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Salomon Hidalgo
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/Salomoncho/Salomoncho/blob/main/Captura%20de%20pantalla%20de%202021-07-13%2021-04-55.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
