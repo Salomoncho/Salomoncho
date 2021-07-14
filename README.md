@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Salomoncho/Salomoncho/blob/main/baner.png)
-
+<!--
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
@@ -10,7 +10,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Salomoncho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salomonh-hidalgob-brachor/)  
 
 
-<!--
+
 **Salomoncho/Salomoncho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
