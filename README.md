@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Salomoncho/Salomoncho/blob/main/Captura%20de%20pantalla%20de%202021-07-13%2021-23-44.png)
+![I am GitHub Readme Generator's creator](https://github.com/Salomoncho/Salomoncho/blob/main/Captura%20de%20pantalla%20de%202021-07-13%2021-27-24.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
