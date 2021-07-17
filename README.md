@@ -7,8 +7,8 @@ Teammates who work with me always highlight my dedication, passion about what I 
 ## 🔭 I’m currently working on Innuy.
 
 
-##- 💬 Spanish Portfolio Website ...
-[<img src="https://github.com/Salomoncho/Salomoncho/blob/main/button.png" width="350"/>](https://salomonhidalgo.herokuapp.com/portfolio_website/)
+## 💬 Spanish Portfolio Website
+[<img src="https://github.com/Salomoncho/Salomoncho/blob/main/button.png" width="320"/>](https://salomonhidalgo.herokuapp.com/portfolio_website/)
 
 <!--
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
